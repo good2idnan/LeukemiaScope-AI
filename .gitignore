@@ -1,0 +1,25 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Environment variables (secrets)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Datasets (too large for git)
+datasets/
+
+# OS
+*.log
