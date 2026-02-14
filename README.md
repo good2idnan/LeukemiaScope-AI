@@ -1,7 +1,7 @@
 # 🩸 LeukemiaScope - AI Blood Cell Analysis
 
 [![HuggingFace Model](https://img.shields.io/badge/🤗%20Model-HuggingFace-yellow)](https://huggingface.co/good2idnan/medgemma-1.5-4b-it-leukemia-lora)
-[![Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-blue)](https://huggingface.co/spaces/chaudhrysuleman/leukemiascope)
+[![Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-blue)](https://huggingface.co/spaces/chaudhrysuleman/Leukemia-AI)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
 
@@ -175,7 +175,7 @@ This project was built for the [Google MedGemma Impact Challenge](https://www.ka
 | Resource             | Link                                                                              |
 | -------------------- | --------------------------------------------------------------------------------- |
 | **Fine-tuned Model** | [HuggingFace](https://huggingface.co/good2idnan/medgemma-1.5-4b-it-leukemia-lora) |
-| **Live Demo**        | [HuggingFace Spaces](https://huggingface.co/spaces/chaudhrysuleman/leukemiascope) |
+| **Live Demo**        | [HuggingFace Spaces](https://huggingface.co/spaces/chaudhrysuleman/Leukemia-AI)   |
 | **Competition**      | [Kaggle](https://www.kaggle.com/competitions/med-gemma-impact-challenge)          |
 
 ---
