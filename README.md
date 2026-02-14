@@ -11,6 +11,15 @@ Built for the [MedGemma Impact Challenge 2026](https://www.kaggle.com/competitio
 
 ---
 
+## 🌟 Advanced Agentic AI Demo
+
+Check out our **Agentic AI** version, which features a multi-agent workflow with clinical reasoning and report generation:
+
+👉 **[LeukemiaScope Agentic AI Demo](https://github.com/chaudhrysuleman/medgemma-1.5-4b-it-leukemia-demo)**  
+_(Powered by LangGraph + MedGemma + Gemini)_
+
+---
+
 ## 🎯 Why LeukemiaScope?
 
 Leukemia is the most common childhood cancer. Early detection can improve 5-year survival rates from **20% to over 85%**. However, manual microscopic examination is time-consuming and requires specialized hematologists — a scarce resource in many parts of the world.
